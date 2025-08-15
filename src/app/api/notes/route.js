@@ -17,7 +17,7 @@ TODO LIST:
 - Update encryption keys
 - Meet with the team about input validation
 
-IMPORTANT: SEEN{Thorne_Should_Sanitize_His_Inputs}
+IMPORTANT: SEEN{the_key_is_cybernaut}
 
 -----------------------
 Remember to properly secure this notebook later!

@@ -86,7 +86,7 @@ export default function Home() {
           <div className="notes-container">
             <h2 className="text-xl font-semibold mb-4">My Personal Notes</h2>
             <div className="notes-content whitespace-pre-wrap bg-gray-50 dark:bg-gray-700 p-4 rounded-md">
-              {notes || "Loading notes..."}
+              {"Unauthorized access: IP did not match"}
             </div>
           </div>
         )}
