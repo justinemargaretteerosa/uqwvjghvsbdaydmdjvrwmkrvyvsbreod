@@ -38,7 +38,9 @@ export default function Home() {
   return (
     <div className="font-sans min-h-screen p-8 bg-gray-100 dark:bg-gray-900">
       <header className="mb-8 text-center">
-        <h1 className="text-3xl font-bold mb-2">Thorne's Digital Notebook</h1>
+        <h1 className="text-3xl font-bold mb-2">
+          Thorne&apos;s Digital Notebook
+        </h1>
         <p className="text-gray-600 dark:text-gray-400">
           Personal thoughts and records
         </p>
@@ -91,7 +93,7 @@ export default function Home() {
       </main>
 
       <footer className="mt-8 text-center text-gray-600 dark:text-gray-400 text-sm">
-        <p>© 2212 Thorne's Private Notebook</p>
+        <p>© 2212 Thorne&apos;s Private Notebook</p>
       </footer>
     </div>
   );
